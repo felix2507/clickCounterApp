@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AndrenaContacts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ETAPP_neu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MockBackend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NativeProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dhbw/chucky_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/entwicklertag-mock-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/etapp-ios-ka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/irma_android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-course-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/schulung/Refactoring-Golf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/schulung/mock-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/schulung/sample-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tripplanner/tripplanner-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tripplanner/tripplanner-spring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/updatecheck" vcs="Git" />
+  </component>
+</project>
